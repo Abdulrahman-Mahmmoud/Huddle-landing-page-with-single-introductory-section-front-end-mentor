@@ -5,13 +5,13 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(bg-desktop.svg);
+    background-image: url(../images/bg-desktop.svg);
     background-color: #6151cf; 
     background-repeat: no-repeat; 
 }
 @media(max-width: 767px) {
     body{
-        background-image: url(bg-mobile.svg);
+        background-image: url(../images/bg-mobile.svg);
 
     }
 }
